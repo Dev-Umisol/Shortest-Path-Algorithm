@@ -1,4 +1,4 @@
-INF = float('inf') # Used to indicate inifinite distance between two nodes
+INF = float('inf') # Used to indicate infinite distance between two nodes
 adj_matrix = [
     [0, 5, 3, INF, 11, INF],
     [5, 0, 1, INF, INF, 2],
